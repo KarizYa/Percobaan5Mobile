@@ -4,7 +4,11 @@
     <string name="grid">Grid</string>
     <string name="heroes_name">Nama Pahlawan</string>
     <string name="description">Deskripsi</string>
+    <string name="nama_pahlawan">nama</string>
+    <string name="deskripsi">deskripsi\n</string>
+    <string name="hero_photo">foto\n</string>
     <string-array name="data_name">
+<!--        <item>Rizka Annisa_003</item>-->
         <item>Ahmad Dahlan</item>
         <item>Ahmad Yani</item>
         <item>Sutomo</item>
@@ -16,6 +20,9 @@
         <item>Soepomo</item>
     </string-array>
     <string-array name="data_description">
+<!--        <item>Adalah seorang mahasiswi semester 3 dari Universitas Taduako Fakultas Teknik-->
+<!--            Jurusan Teknologi Informasi Program Studi S1-Teknik Informatika angkatan 2022.-->
+<!--            Saat ini ia tinggal di Jl.Merpati No.32 B</item>-->
         <item>Salah seorang ulama Khatib terkemuka di Masjid Besar Kesultanan
             Yogyakarta pada masa itu, dan ibu dari K.H Ahmad Dahlan adalah puteri
             dari H. Ibrahim yang juga menjabat penghulu Kesultanan Ngayogyakarta
@@ -71,6 +78,7 @@
             bersama dengan Muhammad Yamin dan Soekarno.[2]</item>
     </string-array>
     <integer-array name="data_photo">
+<!--        <item>@drawable/nisaa</item>-->
         <item>@drawable/ahmad_dahlan</item>
         <item>@drawable/ahmad_yani</item>
         <item>@drawable/bung_tomo</item>
